@@ -11,7 +11,7 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title> Quasar App </q-toolbar-title>
+        <q-toolbar-title> Kritsada App </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
@@ -48,9 +48,9 @@ const linksList = [
   },
   {
     label: "Github",
-    caption: "github.com/quasarframework",
+    caption: "github.com/kritsada19",
     icon: "code",
-    link: "https://github.com/quasarframework"
+    link: "https://github.com/kritsada19"
   },
   {
     label: "Discord Chat Channel",
