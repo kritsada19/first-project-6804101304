@@ -7,19 +7,19 @@
         </template>
       </q-input>
 
-      <q-input color="teal" filled v-model="text" label="Label">
+      <q-input color="teal" filled v-model="text" label="Label(สีฟ้า)">
         <template v-slot:prepend>
           <q-icon name="event" />
         </template>
       </q-input>
 
-      <q-input color="grey-3" label-color="orange" outlined v-model="text" label="Label">
+      <q-input color="grey-3" label-color="orange" outlined v-model="text" label="Label(สีม่วง)">
         <template v-slot:append>
           <q-icon name="event" color="orange" />
         </template>
       </q-input>
 
-      <q-input color="lime-11" bg-color="green" filled v-model="text" label="Label">
+      <q-input color="lime-11" bg-color="green" filled v-model="text" label="Label(สีดำ)">
         <template v-slot:prepend>
           <q-icon name="event" />
         </template>
