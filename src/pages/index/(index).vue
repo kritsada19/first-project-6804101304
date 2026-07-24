@@ -7,7 +7,7 @@
         </template>
       </q-input>
 
-      <q-input color="teal" filled v-model="text" label="Label">
+      <q-input color="purple-12" filled v-model="text" label="Label">
         <template v-slot:prepend>
           <q-icon name="event" />
         </template>
