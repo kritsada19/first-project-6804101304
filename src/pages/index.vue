@@ -59,12 +59,6 @@ const linksList = [
     link: "https://chat.quasar.dev"
   },
   {
-    label: "Forum",
-    caption: "forum.quasar.dev",
-    icon: "record_voice_over",
-    link: "https://forum.quasar.dev"
-  },
-  {
     label: "Twitter",
     caption: "@quasarframework",
     icon: "rss_feed",
