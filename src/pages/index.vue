@@ -70,12 +70,6 @@ const linksList = [
     icon: "public",
     link: "https://facebook.quasar.dev"
   },
-  {
-    label: "Quasar Awesome",
-    caption: "Community Quasar projects",
-    icon: "favorite",
-    link: "https://awesome.quasar.dev"
-  }
 ]
 
 const leftDrawerOpen = ref(false)
